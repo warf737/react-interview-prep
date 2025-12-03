@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "preview:dist": "vite preview --base=/react-interview-prep/"
   },
   "dependencies": {
     "vue": "^3.4.0"
@@ -16,4 +17,3 @@
     "vite": "^5.0.0"
   }
 }
-
