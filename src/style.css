@@ -259,7 +259,7 @@ body {
 
 .code-editor {
   width: 100%;
-  min-height: 200px;
+  min-height: 600px;
   padding: 15px;
   font-family: 'Courier New', monospace;
   font-size: 14px;
